@@ -1,8 +1,8 @@
 <h1 align="center">what's up people, i'm Juan Manuel Moreno</h1>
 <h3 align="center">I make realization my only distraction.</h3>
-        <div class="centrado">
-            <div class="linea"></div>
-        </div>
+<br></br>
+<br></br>
+<br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanitoelorigi&label=Profile%20views&color=0e75b6&style=flat" alt="juanitoelorigi" /> </p>
 
 - 🔭 I’m currently working on **Control Nutritión**
