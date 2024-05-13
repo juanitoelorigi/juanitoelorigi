@@ -2,7 +2,7 @@
 <h3 align="center">I make realization my only distraction.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanitoelorigi&label=Profile%20views&color=0e75b6&style=flat" alt="juanitoelorigi" /> </p>
 
-- 🔭 I’m currently working on **Control Nutritión**
+- 🔭 I’m currently working on **Gaia**, **Horus**
 
 - 🌱 I’m currently learning **Phyton, french lenguaje, Java Script intermediate.**
 
