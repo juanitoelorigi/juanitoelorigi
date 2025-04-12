@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **react, Js, data base fire base, html, css and java**
 
-- 📫 How to reach me **morenogjuanma4@gmail.com**
+- 📫 How to reach me **morenogjuanma@gmail.com**
 
 - ⚡ Fun fact **I am good at developing conversations with new people, learning quickly to identify people's tastes and I like gray humor (it's common black humor, but not to that much).**
 
