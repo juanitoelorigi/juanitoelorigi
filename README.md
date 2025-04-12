@@ -42,6 +42,6 @@
 </a>
 
 <a href="https://www.image-line.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/image-line/image-line-icon.svg" alt="flstudio" width="40" height="40"/>
+  <img src="https://www.image-line.com/static/assets/og-image.3bf463b.png" alt="flstudio" width="40" height="40"/>
 </a></p>
 
