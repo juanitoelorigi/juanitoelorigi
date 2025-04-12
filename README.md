@@ -2,11 +2,11 @@
 <h3 align="center">I make realization my only distraction.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanitoelorigi&label=Profile%20views&color=0e75b6&style=flat" alt="juanitoelorigi" /> </p>
 
-- 🔭 I’m currently working on **Lyra**, **Quickness**
+- 🔭 I’m currently working on **Lyra**, **Quickness** and **Calabozos and Compuertas**
 
 - 🌱 I’m currently learning **Phyton, french lenguaje, Java Script intermediate.**
 
-- 💬 Ask me about **react, Js, data base fire base, html, css and java**
+- 💬 Ask me about **react, Js, data base fire base, html, css and java, node.js and firebase functions cloud**
 
 - 📫 How to reach me **morenogjuanma@gmail.com**
 
