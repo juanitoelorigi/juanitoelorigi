@@ -1,57 +1,82 @@
-# Hi, I'm [Your Name]
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Hey!+I'm+Juan+Manuel;Full+Stack+Developer;Minimalist+UI%2FUX" alt="Typing SVG" />
+</div>
 
-> **Software Engineer & Minimalist Design Enthusiast.**
-> I build digital products with a focus on structure, clarity, and performance.
+<h3 align="center">◻️ Design through subtraction.</h3>
 
----
+<div align="center">
+  <a href="https://twitter.com/elbanneroficial" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-F2F2F2?style=for-the-badge&logo=twitter&logoColor=black" target="_blank" />
+  </a>
+  <a href="https://fb.com/juan ma moreno" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-F2F2F2?style=for-the-badge&logo=facebook&logoColor=black" target="_blank" />
+  </a>
+  <a href="https://instagram.com/jmmz18" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-F2F2F2?style=for-the-badge&logo=instagram&logoColor=black" target="_blank" />
+  </a>
+  <a href="mailto:morenogjuanma@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-F2F2F2?style=for-the-badge&logo=gmail&logoColor=black" target="_blank" />
+  </a>
+</div>
 
-### / Philosophy
+<br/>
 
-My approach to development is grounded in **essentialism**. I believe software should be as clean as it is functional. I specialize in stripping away the unnecessary to focus on what matters: robust architecture, seamless user experiences, and pixel-perfect implementation using modern tools like **Tailwind CSS** and **Supabase**.
+<h2 align="center">⚡ About Me</h2>
 
----
-
-### / Selected Work
-
-I am currently focused on building scalable applications that solve specific problems through intuitive design.
-
-#### 01. KAIZEN
-**Continuous Improvement Platform**
-A web application designed to optimize team workflows and iterative development. It focuses on tracking progress with a clutter-free interface.
-* `Supabase` `React` `Tailwind CSS`
-
-#### 02. TACTO
-**Accessible Mobile Interface**
-A human-centric mobile application dedicated to accessibility. The UI is designed with high contrast and distinct spatial awareness to aid users with specific visual or motor needs.
-* `SCSS` `TypeScript` `Mobile Architecture`
-
-#### 03. CALMA
-**Focus & Productivity Suite**
-A cross-platform desktop application built to reduce cognitive load. It helps users maintain focus by blocking digital noise and presenting tasks in a serene, monochrome environment.
-* `Electron` `Node.js` `Minimal UI`
-
-**[View Archive & Many More Projects →](#)**
+- 🔭 I’m currently working on **Kaizen**, **Tacto**, and **Calma**.
+- 🌱 I’m currently learning **Advanced Architecture Patterns & Electron**.
+- 💬 Ask me about **Tailwind CSS, Supabase, Minimalist Design, and JS**.
+- 🧩 Fun fact: **I believe that in code, as in life, less is often more.**
+- 👻 Humor: **I like gray humor (it's like black humor, but lighter 😉).**
 
 ---
 
-### / Tech Stack
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-I select tools that allow for modularity and speed without compromising on control.
+<div align="center">
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Styling & UI** | `Tailwind CSS` `SCSS (Sass)` `CSS Modules` |
-| **Core** | `JavaScript (ES6+)` `TypeScript` `HTML5` |
-| **Backend & Data** | `Supabase` `Node.js` `PostgreSQL` |
-| **Desktop/Mobile** | `Electron` `Capacitor` |
-| **Tools** | `Git` `Webpack` `Vite` `Figma` |
+  <p><b>Languages</b></p>
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" />
+   
+  <br/>
+
+  <p><b>Frontend & Styling</b></p>
+  <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-333333?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass_(SCSS)-333333?style=for-the-badge&logo=sass&logoColor=white" />
+   
+  <br/>
+
+  <p><b>Backend & Cloud</b></p>
+  <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-333333?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <br/>
+
+  <p><b>Desktop & Tools</b></p>
+  <img src="https://img.shields.io/badge/Electron-333333?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-333333?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white" />
+
+</div>
 
 ---
 
-### / Contact
+<h2 align="center">📊 GitHub Stats</h2>
 
-Let's build something clean and enduring.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanitoelorigi&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&bar_color=555555" alt="Juan's Stats" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitoelorigi&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" alt="Top Langs" height="180"/>
+</div>
 
-* [Email Me](#)
-* [LinkedIn](#)
-* [Portfolio](#)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=juanitoelorigi&label=Views&color=999999&style=flat-square" alt="juanitoelorigi" />
+</div>
