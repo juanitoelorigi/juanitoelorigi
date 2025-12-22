@@ -1,5 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Hey!+I'm+Juan+Manuel+MG;Full+Stack+Developer;Minimalist+UI%2FUX" alt="Typing SVG" />
+  <h1 style="font-size: 50px; margin-bottom: 0;">
+    <a href="https://juanmg.com" target="_blank" style="text-decoration: none; color: #000000;">
+      JUANMG.COM
+    </a>
+  </h1>
+  <p style="font-size: 16px; color: #666666; margin-top: 0;">
+    Explore my full portfolio & case studies
+  </p>
+  
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Hey!+I'm+Juan+Manuel;Full+Stack+Developer;Minimalist+UI%2FUX" alt="Typing SVG" />
 </div>
 
 <h3 align="center">◻️ Design through subtraction.</h3>
