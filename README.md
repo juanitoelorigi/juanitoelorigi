@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 50px; margin-bottom: 0;">
-    <a href="https://juanmg.com" target="_blank" style="text-decoration: none; color: #000000;">
+    <a href="https://juanmg.com" target="_blank" style="text-decoration: none; color: #888888;">
       JUANMG.COM
     </a>
   </h1>
