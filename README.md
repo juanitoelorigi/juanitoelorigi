@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Hey!+I'm+Juan+Manuel;Full+Stack+Developer;Minimalist+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Hey!+I'm+Juan+Manuel+MG;Full+Stack+Developer;Minimalist+UI%2FUX" alt="Typing SVG" />
 </div>
 
 <h3 align="center">◻️ Design through subtraction.</h3>
