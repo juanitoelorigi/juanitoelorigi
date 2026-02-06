@@ -40,7 +40,6 @@
 - 🧩 Fun fact: **I believe that in code, as in life, less is often more.**
 - 👻 Humor: **I like gray humor (it's like black humor, but lighter 😉).**
 
----
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
@@ -78,7 +77,7 @@
 
 </div>
 
----
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
