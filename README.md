@@ -82,11 +82,5 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanitoelorigi&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&bar_color=555555" alt="Juan's Stats" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanitoelorigi&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" alt="Top Langs" height="180"/>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=juanitoelorigi&label=Views&color=999999&style=flat-square" alt="juanitoelorigi" />
 </div>
